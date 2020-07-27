@@ -83,3 +83,20 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# custom
+.dart_tool/
+.gradle/
+.idea/
+android/
+build/
+ios/
+test/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.packages
+interval_timer.iml
+LICENSE
+pubspec.lock
+pubspec.yaml
